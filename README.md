@@ -128,7 +128,7 @@ Predicted House Price: ₹XX,XX,XXX
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Atharva Galande**
 
 ## 📄 License
 
